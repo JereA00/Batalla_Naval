@@ -2,6 +2,9 @@ apply plugin: 'java'
 apply plugin: 'application'
 version = '2.0.5'
 sourceCompatibility = '1.8'
+[compileJava, compileTestJava].options.encoding = 'UTF-8'
+
+mainClassName = "Main"
 
 repositories {
     mavenCentral()
@@ -10,4 +13,3 @@ repositories {
 dependencies {
     compile 'junit:junit:4.12'
     compile 'mysql:mysql-connector-java:8.0.11'
-}
