@@ -18,4 +18,5 @@ llaman al metodo bombardear de ese barco
 - 2 Destructores: ocupan 3 casillas.
 - 1 Fragatas: ocupan 2 casilla.
 
-[![Build Status](https://travis-ci.com/JereA00/Batalla_Naval.svg?branch=master)](https://travis-ci.com/JereA00/Batalla_Naval)
+-Master: 
+[![CircleCI](https://circleci.com/gh/JereA00/Batalla_Naval/tree/master.svg?style=svg)](https://circleci.com/gh/JereA00/Batalla_Naval/tree/master)
