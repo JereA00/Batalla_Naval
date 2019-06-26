@@ -33,7 +33,7 @@ jobs:
 
       - run: gradle dependencies
       - store_test_results:
-          path: src/test/java
+          path: src/test/java/DisparoCruzTest
 
       - save_cache:
           paths:

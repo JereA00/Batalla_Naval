@@ -214,6 +214,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -291,6 +296,12 @@
     </history-entry>
     <history-entry file="DisparoComunTest - 2019.06.26 at 02h 19m 11s.xml">
       <configuration name="DisparoComunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisparoTermodirigidoTest - 2019.06.26 at 02h 22m 19s.xml">
+      <configuration name="DisparoTermodirigidoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DisparoCruzTest - 2019.06.26 at 02h 23m 14s.xml">
+      <configuration name="DisparoCruzTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
