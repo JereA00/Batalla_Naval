@@ -7,8 +7,6 @@ public class Modelo implements Observable {
     private Juego juego;
 
 
-
-
     @Override
     public void addObserver(Observer o) {
         observers.add(o);
