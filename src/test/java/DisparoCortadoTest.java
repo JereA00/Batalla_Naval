@@ -22,7 +22,7 @@ public class DisparoCortadoTest {
     public void disparar() throws InvalidDisparoException {
         t1.activarTablero();
         d1.disparar(4,3,t1);
-        assertFalse(t1.getCelda(4,3).isActivada());
+        assertTrue(t1.getCelda(4,3).isActivada()); //este
         assertFalse(t1.getCelda(4,5).isActivada());
     }
     @Test
