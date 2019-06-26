@@ -33,6 +33,7 @@ jobs:
           - v1-test-
 
       - run: gradle dependencies
+      - run: gradle test
       - store_test_results:
           path: ~/junit
 
