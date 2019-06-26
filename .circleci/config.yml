@@ -41,10 +41,4 @@ jobs:
           paths:
             - ~/.gradle
           key: v1-dependencies-{{ checksum "build.gradle" }}
-  test:
-    docker:
-      - image: circleci/openjdk:8-jdk
-    steps:
-      - checkout
-      - run:
 -run: sudo apt install -y mysql-client
