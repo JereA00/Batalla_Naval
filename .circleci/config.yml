@@ -32,6 +32,8 @@ jobs:
           - v1-dependencies-
 
       - run: gradle dependencies
+      - store_test_results:
+          path: java
 
       - save_cache:
           paths:
