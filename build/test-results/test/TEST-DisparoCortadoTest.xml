@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DisparoCortadoTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2019-06-26T15:47:37" hostname="Jeremias.local" time="0.019">
+<testsuite name="DisparoCortadoTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2019-06-26T15:51:07" hostname="Jeremias.local" time="0.02">
   <properties/>
-  <testcase name="getTipo" classname="DisparoCortadoTest" time="0.007"/>
-  <testcase name="disparar" classname="DisparoCortadoTest" time="0.01">
+  <testcase name="getTipo" classname="DisparoCortadoTest" time="0.004"/>
+  <testcase name="disparar" classname="DisparoCortadoTest" time="0.014">
     <failure message="java.lang.AssertionError" type="java.lang.AssertionError">java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.assertTrue(Assert.java:41)
@@ -58,7 +58,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:834)
 </failure>
   </testcase>
-  <testcase name="disparar_Fallido" classname="DisparoCortadoTest" time="0.0"/>
+  <testcase name="disparar_Fallido" classname="DisparoCortadoTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
