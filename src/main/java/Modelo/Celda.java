@@ -14,6 +14,7 @@ public class Celda {
     private int columna;
     private Barco barco; //referencia al barco parado encima de la celda, solo un barco por celda
 
+
     /**
      * crea una celda con su barco y su activacion
      * @param barco
