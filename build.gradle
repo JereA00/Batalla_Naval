@@ -12,4 +12,4 @@ repositories {
 
 dependencies {
     compile 'junit:junit:4.12'
-    compile 'mysql:mysql-connector-java:8.0.11'
+    compile 'mysql:mysql-connector-java:8.0.11'}
