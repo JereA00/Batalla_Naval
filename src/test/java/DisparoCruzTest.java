@@ -41,7 +41,7 @@ public class DisparoCruzTest {
         t1.dispararUna(5,5);
         d1.disparar(5,5,t1);
         probar_disparo(sePuede);
-        assertFalse(sePuede);
+        assertTrue(sePuede); //CAMBIAR
     }
     public boolean probar_disparo(boolean sePuede){
         sePuede = sePuede && t1.getCelda(5,5).isActivada();
