@@ -175,6 +175,14 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Batalla_Naval_[test] - 2019.06.26 at 12h 50m 23s.xml">
+      <configuration name="Batalla_Naval [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Batalla_Naval_[test] - 2019.06.26 at 12h 51m 08s.xml">
+      <configuration name="Batalla_Naval [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="281000" />
   </component>
